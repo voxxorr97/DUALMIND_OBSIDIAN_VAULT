@@ -1,0 +1,9 @@
+.obsidian/
+.DS_Store
+*.tmp
+node_modules/
+venv/
+__pycache__/
+.env
+*.log
+.DualMind-cache/

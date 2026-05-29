@@ -1,39 +1,33 @@
-# DUALMIND OBSIDIAN VAULT
+# 🔮 DUALMIND OBSIDIAN VAULT
 
-**DualMind** : Système personnel de revenu passif auto-améliorant.
+**Système vivant** de revenu passif auto-améliorant.
 
-**Ce Vault** : Mémoire profonde centrale pour tout le projet. Structure Obsidian native, synchronisée avec Notion (via notion-synapse) et GitHub (backup + versionning).
+> *Chaque fichier est un nœud. Chaque lien est une synapse.*
 
-## Comment utiliser
+## Navigation Rapide (clique)
 
-- Ouvre ce dossier dans Obsidian (File > Open vault).
-- Tous les liens [[ ]] sont natifs Obsidian.
-- Dossiers numérotés pour clarté et priorité.
+- [[00_INDEX|INDEX CENTRAL]]
+- [[01_vision/2026-05-28__VISION__dualmind-empire|Vision Empire]]
+- [[03_content/2026-05-28__BRAND__archive-noire|Archive Noire Brand]]
+- [[03_content/2026-05-28__SCRIPT__appel-911-non-humain|Dossier #001 - Script]]
+- [[14_monetisation/2026-05-28__PRODUCT__mystery-prompt-pro|Mystery Prompt Pro]]
+- [[04_agents/2026-05-28__AGENT__hermes-ceo-v2-2|Hermes CEO v2.2]]
+- [[07_workflow/2026-05-28__WORKFLOW__content-to-cash-loop|Content-to-Cash Loop]]
 
-## Structure
+## Structure (15 dossiers)
 
-- `01_vision/` : Vision long terme, empire DualMind
-- `02_business/` : Modèles de revenus, architecture
-- `03_content/` : Archive Noire (marque mystery faceless)
-- `04_agents/` : Hermes CEO, ShadowForge, Evolution Catalyst
-- `05_automations/` : Workflows automatisés
-- `06_APIs/` : Clés, intégrations
-- `07_workflow/` : Pipelines (content-to-cash, Notion-Obsidian-GitHub)
-- `08_prompts/` : Prompts maîtres (Archive Noire, Mystery Script Engine)
-- `09_analytics/` : Stats, virality
-- `10_ideas/` : Idées brutes
-- `11_tests/` : Tests & expérimentations
-- `12_bugs/` : Issues & fixes
-- `13_roadmap/` : 30 jours, quarterly
-- `14_monetisation/` : Produits digitaux (Mystery Prompt Pro, packs)
-- `15_scaling/` : Multi-canal, scaling
+Les dossiers sont numérotés par priorité exécution :
 
-## Sync & Backup
+**01-03** → Vision + Business + Contenu (cœur)
+**04-08** → Agents + Automations + Prompts (moteur)
+**09-15** → Analytics + Idées + Tests + Roadmap + Monétisation + Scaling (croissance)
 
-- **Notion** : Pousse via notion-synapse skill
-- **GitHub** : Ce repo (backup + collaboration)
-- **Obsidian** : Local + sync via Git plugin ou Obsidian Git
+## Sync 3-en-1
 
-**Priorité actuelle** : Lancer **Archive Noire** (Dossier #001 en prod).
+- **Obsidian** : Ouvre le dossier directement (vault local)
+- **Notion** : Pousse via `notion-synapse` skill
+- **GitHub** : Backup + version + collaboration (ce repo)
 
-Créé le 28 mai 2026 par Grok + DualMind.
+**Priorité absolue cette semaine** : Lancer Archive Noire (Dossier #001 en prod + 3 vidéos).
+
+Créé & maintenu par Grok + DualMind • 28 mai 2026
